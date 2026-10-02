@@ -1,0 +1,7 @@
+path: /content/dataset  # Ini path default di Google Colab nanti
+train: images/train
+val: images/val
+
+names:
+  0: tabel_kuantitas
+  1: tanda_tangan

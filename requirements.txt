@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+opencv-python-headless
+pandas
+ultralytics
+transformers
+fuzzywuzzy
+python-Levenshtein
+PyMuPDF
+opencv-python-headless

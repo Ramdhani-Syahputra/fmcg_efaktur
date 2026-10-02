@@ -1,0 +1,13 @@
+# Data & Dataset
+data/
+dataset/
+
+# Model & YOLOv8 Outputs
+models/
+runs/
+*.pt
+
+# Python & Environment
+__pycache__/
+*.pyc
+.env
